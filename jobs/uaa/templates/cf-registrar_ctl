@@ -6,7 +6,7 @@ LOG_DIR=/var/vcap/sys/log/uaa
 PIDFILE=$RUN_DIR/cf-registrar.pid
 VCAP_COMMON_PATH=/var/vcap/packages/uaa/vcap-common
 
-source /var/vcap/packages/common/utils.sh
+source /var/vcap/packages/identity-common/utils.sh
 
 case $1 in
 

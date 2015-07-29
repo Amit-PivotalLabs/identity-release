@@ -23,7 +23,7 @@ templates:
 
 
 packages:
-  - common
+  - identity-common
   - ruby-2.1.6
   - uaa
 
